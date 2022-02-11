@@ -3,12 +3,13 @@ Software development is the process of computer programming, documentation, test
 
 1- Project Overview
    
-   * Billing
-   * Add/Sell products
-   * Update/Delete products
+   * Login/Logout user
+   * Transfer Balance to other accounts
+   * Add new user
+   * View balance in account
 
-2- Banking Management System(BMSs) Terminal
-   * DSMS terminal is a computerised replacement for a cash register
+2- Banking Management System(BMS) Terminal
+   * BMS terminal is a computerised replacement for a cash register
    * It can record and track the customer transactions
 
 3- User friendly
