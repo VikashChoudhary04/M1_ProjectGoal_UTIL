@@ -33,9 +33,11 @@ Concepts of file handling will be used to store the data of the users, and then 
 
 -> Then the user is able to transfer the amount to other users, for that transfermoney() function is called, and for checking the current balance in the account call checkbalances() function.
 
+
 # 4W1H
 
 # Why
+
 * Why do we need this system?
 
 To store thw data of the public or users having account in the bank
