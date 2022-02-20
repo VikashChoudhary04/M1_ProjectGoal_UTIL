@@ -14,4 +14,7 @@
 ## Workflow
 [![Manual workflow](https://github.com/vikash0404/M1_ProjectGoal_UTIL/actions/workflows/manual.yml/badge.svg)](https://github.com/vikash0404/M1_ProjectGoal_UTIL/actions/workflows/manual.yml)
 
+## Build/CPP_Check
+[![C/C++ CI](https://github.com/vikash0404/M1_ProjectGoal_UTIL/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/vikash0404/M1_ProjectGoal_UTIL/actions/workflows/c-cpp.yml)
+
 
