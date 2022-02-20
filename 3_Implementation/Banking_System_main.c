@@ -1,3 +1,17 @@
+/**
+ * @file main.c
+ * @author Vikash Choudhary
+ * @brief Banking_System
+ * @version 0.1
+ * @date 2022-02-20
+ * 
+ * @copyright Copyright (c) 2022
+ * 
+ */
+
+
+
+
 // function for setting cursor position
 void gotoxy(int x, int y)
 {
