@@ -17,22 +17,12 @@ This program focuses on how to create a bank account system using C language and
 
 ## BADGES
 
-|## CODIGA                                                        |   ## CODACY            |
-| --------------------------------------------------              |   ---------------      |
-| ![MIT License](https://api.codiga.io/project/31030/score/svg)   | ![Codacy Badge](https://app.codacy.com/project/badge/Grade/67feed219d804dc8ab011d36dce5bce7) |
+| CODIGA                                                        |   CODACY            |  Workflow        |  Build/CPP    |  Unit Testing |
+| --------------------------------------------------              |   ---------------      | ---------------    | --------------- | ------------    |
+| ![MIT License](https://api.codiga.io/project/31030/score/svg)   | ![Codacy Badge](https://app.codacy.com/project/badge/Grade/67feed219d804dc8ab011d36dce5bce7) | [![Manual workflow](https://github.com/vikash0404/M1_ProjectGoal_UTIL/actions/workflows/manual.yml/badge.svg)](https://github.com/vikash0404/M1_ProjectGoal_UTIL/actions/workflows/manual.yml) | [![C/C++ CI](https://github.com/vikash0404/M1_ProjectGoal_UTIL/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/vikash0404/M1_ProjectGoal_UTIL/actions/workflows/c-cpp.yml) | [![UnitTesting](https://github.com/vikash0404/M1_ProjectGoal_UTIL/actions/workflows/c-cpp1.yml/badge.svg)](https://github.com/vikash0404/M1_ProjectGoal_UTIL/actions/workflows/c-cpp1.yml) |
 | ![GPLv3 License](https://api.codiga.io/project/31030/status/svg)|
 
 
-## CODACY
-![Codacy Badge](https://app.codacy.com/project/badge/Grade/67feed219d804dc8ab011d36dce5bce7)
 
-## Workflow
-[![Manual workflow](https://github.com/vikash0404/M1_ProjectGoal_UTIL/actions/workflows/manual.yml/badge.svg)](https://github.com/vikash0404/M1_ProjectGoal_UTIL/actions/workflows/manual.yml)
-
-## Build/CPP
-[![C/C++ CI](https://github.com/vikash0404/M1_ProjectGoal_UTIL/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/vikash0404/M1_ProjectGoal_UTIL/actions/workflows/c-cpp.yml)
-
-## Unit Testing
-[![UnitTesting](https://github.com/vikash0404/M1_ProjectGoal_UTIL/actions/workflows/c-cpp1.yml/badge.svg)](https://github.com/vikash0404/M1_ProjectGoal_UTIL/actions/workflows/c-cpp1.yml)
 
 
