@@ -16,12 +16,11 @@ This program focuses on how to create a bank account system using C language and
 
 
 ## BADGES
-## CODIGA
 
-
-
-![MIT License](https://api.codiga.io/project/31030/score/svg)
-![GPLv3 License](https://api.codiga.io/project/31030/status/svg)
+|## CODIGA                                                        |   ## CODACY            |
+| --------------------------------------------------              |   ---------------      |
+| ![MIT License](https://api.codiga.io/project/31030/score/svg)   | ![Codacy Badge](https://app.codacy.com/project/badge/Grade/67feed219d804dc8ab011d36dce5bce7) |
+| ![GPLv3 License](https://api.codiga.io/project/31030/status/svg)|
 
 
 ## CODACY
