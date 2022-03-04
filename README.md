@@ -11,8 +11,8 @@ This program focuses on how to create a bank account system using C language and
 | 2_Architecture	      | Structure of code is here    |
 | 3_Implementation	    | Coding part is here          |
 | 4_TestPlanAndOutput	  | Test plan is here            |
-| 5_Images and Videos	  | All Images of output is here |
-| 6_Report	            | Here is my Report            |
+| 5_Report          	  | All Images of output is here |
+| 6_Videos	            | Here is my Report            |
 
 
 ## BADGES
